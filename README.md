@@ -1,5 +1,5 @@
 Trabalho da Disciplina de Teoria de Linguagem
-PROFESSOR: Vinícius Durelli, 2018/2
+Professor: Vinícius Durelli, 2018/2
 
 ALUNOS: Ana Letícia Neves, Valney Faria
 
